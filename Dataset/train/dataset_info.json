@@ -1,0 +1,32 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "news": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "masked headline": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "calculation": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "ans": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "context": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "t5-input": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
